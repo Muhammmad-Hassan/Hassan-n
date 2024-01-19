@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+color: rgb(10, 6, 0);
+}
+
+.container{
+  background-color: antiquewhite;
+}
+.container input{
+  padding: 6px;
+  margin: 0 4px;
+  border-radius: 7px;
+}
+.container2 label{
+color: black;
+
+}
+.container2 input{
+cursor: pointer;
+}
+.cardA{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin: 4px 4px;
+}
